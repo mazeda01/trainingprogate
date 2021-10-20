@@ -80,7 +80,6 @@ h1 {
 }
 
 @keyframes animated {
-    border: 10px solid white;
     from {
         font-size: 30px; 
     }
@@ -97,13 +96,13 @@ h1:hover {
 }
 
 .main h1 {
-    font-size: 20px;
+    font-size: 50px;
     font-family: sans-serif;
     background-color: yellow;
 }
 
 .main p {
-    font-size: 15px;
+    font-size: 30px;
     font-family: sans-serif;
     background-color: yellow;
 }
