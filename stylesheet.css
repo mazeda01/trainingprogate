@@ -48,3 +48,43 @@ header {
     width: 250px;
   margin-top: 20px;
 }
+
+footer {
+    background-color: rgb(253, 253, 100);
+    color: rgb(34, 25, 25);
+    height: 150px;
+    padding: 40px;
+}
+.contents-item blockquote {
+    font-family:"Cursive";
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    font-size: 32px;
+    color: teal;
+    padding-top: 30px;
+}
+.contents-item span {
+    font-style: normal;
+}
+.footer-logo {
+    font-size: 30px;
+    float: right;
+    font-style: bold;
+    rotate: -90deg;  
+}
+.footer-list {
+    float: left;
+    font-weight: bold;
+    font-size: 15px;
+}
+.footer-list li {
+    padding-bottom: 20px;
+}
+.footer-copyright {
+    float: bottom;
+    padding-top: 0px;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgb(253, 235, 32);
+}
