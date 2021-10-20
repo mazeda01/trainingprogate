@@ -1,7 +1,7 @@
 stylesheet.css
 * {
     box-sizing: border-box;
-  }
+}
 
 header {
     height: 75px;
@@ -11,42 +11,43 @@ header {
     top: 0;
     z-index: 10;
     font-family: cursive;
-  }
+}
 
-  .header-left {
+.header-left {
     float: left;
     font-family: cursive;
     font-size: 60px;
-  }
+}
   
-  .header-right {
+.header-right {
     float: right;
     margin-right: 20px;
-  }
+}
 
-  .header-right a {
+.header-right a {
     line-height: 65px;
     padding: 0 25px;
     color: rgb(8, 8, 8);
     display: block;
     float: left;
     transition: all 0.5s;
-  }
+}
 
-  .header-right a:hover {
+.header-right a:hover {
     background-color: rgba(255, 255, 255, 0.3);
-  }
+}
   
 .header-logo {
     color:yellow;
 }
-  .fa {
-      margin-right: 5px;
-  }
+
+.fa {
+    margin-right: 5px;
+}
  
 .logo {
     width: 250px;
-  margin-top: 20px;
+    margin-top: 20px;
 }
 
 .site-welcome {
