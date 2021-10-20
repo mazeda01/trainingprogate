@@ -59,6 +59,7 @@ header {
     margin: auto;
     background-color: yellow;
 }
+
 .site-tittle welcome-font {
     height: 70px;
     margin: 10px;
@@ -95,6 +96,7 @@ footer {
     height: 150px;
     padding: 40px;
 }
+
 .contents-item blockquote {
     font-family:"Cursive";
     font-style: italic;
@@ -104,15 +106,18 @@ footer {
     color: teal;
     padding-top: 30px;
 }
+
 .contents-item span {
     font-style: normal;
 }
+
 .footer-logo {
     font-size: 30px;
     float: right;
     font-style: bold;
     rotate: -90deg;  
 }
+
 .footer-list {
     float: left;
     font-weight: bold;
@@ -121,6 +126,7 @@ footer {
 .footer-list li {
     padding-bottom: 20px;
 }
+
 .footer-copyright {
     float: bottom;
     padding-top: 0px;
