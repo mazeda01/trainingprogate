@@ -7,7 +7,7 @@ header {
     height: 75px;
     width: 100%;
     background-color: yellow;
-    position :fixed;
+    position : fixed;
     top: 0;
     z-index: 10;
     font-family: cursive;
@@ -66,6 +66,7 @@ main {
     font-size: 50px;
     font-family: sans-serif;
     background-color: yellow;
+    color: white;
 }
 
 .main p {
