@@ -80,6 +80,7 @@ h1 {
 }
 
 @keyframes animated {
+    border: 10px solid white;
     from {
         font-size: 30px; 
     }
