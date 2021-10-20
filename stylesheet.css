@@ -3,7 +3,7 @@ stylesheet.css
     box-sizing: border-box;
 }
 
-header {
+.header {
     height: 75px;
     width: 100%;
     background-color:yellow;
