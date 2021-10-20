@@ -6,7 +6,7 @@ stylesheet.css
 .header {
     height: 75px;
     width: 100%;
-    background-color:yellow;
+    background-color: yellow;
     position :fixed;
     top: 0;
     z-index: 10;
@@ -38,7 +38,7 @@ stylesheet.css
 }
   
 .header-logo {
-    color:yellow;
+    color: yellow;
 }
 
 .fa {
@@ -58,7 +58,7 @@ footer {
 }
 
 .contents-item blockquote {
-    font-family:"Cursive";
+    font-family: "Cursive";
     font-style: italic;
     font-weight: bold;
     text-align: center;
