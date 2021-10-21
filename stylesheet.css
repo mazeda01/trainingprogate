@@ -6,7 +6,7 @@ stylesheet.css
 header {
     height: 75px;
     width: 100%;
-    background-color:yellow;
+    background-color: rgb(253, 253, 100);
     position :fixed;
     top: 0;
     z-index: 10;
