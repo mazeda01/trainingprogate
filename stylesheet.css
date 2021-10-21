@@ -5,13 +5,13 @@ stylesheet.css
 
 header {
     height: 75px;
-    width: 100px;
-    background-color: yellow;
-    position : fixed;
+    width: 100%;
+    background-color:yellow;
+    position :fixed;
     top: 0;
     z-index: 10;
     font-family: cursive;
-}
+  }
 
 .header-left {
     float: left;
