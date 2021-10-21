@@ -55,7 +55,7 @@ header {
     margin-top: 20px;
 }
 
-#banner p {
+.banner p {
     color: tomato;
     font-size: 25px;
     font-weight: bolder;
