@@ -94,6 +94,10 @@ main {
     color: white;
 }
 
+body {
+    background: url:(main/bg.jpg)
+}
+
 footer {
     background-color: rgb(247, 247, 107);
     color: rgb(34, 25, 25);
